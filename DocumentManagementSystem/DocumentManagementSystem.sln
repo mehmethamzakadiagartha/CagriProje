@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem.En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem.DataAccess", "DocumentManagementSystem.DataAccess\DocumentManagementSystem.DataAccess.csproj", "{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem.Business", "DocumentManagementSystem.Business\DocumentManagementSystem.Business.csproj", "{7F5CF23B-2DC3-435C-87D7-D4674F50BCB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5CF23B-2DC3-435C-87D7-D4674F50BCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5CF23B-2DC3-435C-87D7-D4674F50BCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5CF23B-2DC3-435C-87D7-D4674F50BCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5CF23B-2DC3-435C-87D7-D4674F50BCB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
