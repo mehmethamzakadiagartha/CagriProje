@@ -239,7 +239,6 @@
     <Content Include="Content\adminlte\css\alt\adminlte.plugins.min.css.map" />
     <Content Include="Content\Bootstrap\mdb.min.css.map" />
     <None Include="bin\DocumentManagementSystem.Web.dll.config" />
-    <Content Include="bin\roslyn.rar" />
     <Content Include="bin\roslyn\csc.exe.config" />
     <Content Include="bin\roslyn\csc.rsp" />
     <Content Include="bin\roslyn\csi.exe.config" />
