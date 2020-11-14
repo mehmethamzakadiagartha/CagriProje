@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem.Entites", "DocumentManagementSystem.Entites\DocumentManagementSystem.Entites.csproj", "{554E63AF-4E71-4525-BF98-79262173E8E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentManagementSystem.DataAccess", "DocumentManagementSystem.DataAccess\DocumentManagementSystem.DataAccess.csproj", "{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{554E63AF-4E71-4525-BF98-79262173E8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554E63AF-4E71-4525-BF98-79262173E8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554E63AF-4E71-4525-BF98-79262173E8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DC53F9-13E7-4D9C-A924-D64CCB2368EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
